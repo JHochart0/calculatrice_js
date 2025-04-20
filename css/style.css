@@ -1,0 +1,12 @@
+body{
+	font-family:Arial, Sans serif;
+}
+
+input{
+	width : 10%;
+	height : 10%;
+}
+
+#affichage{
+	width :31%;
+}
